@@ -12,10 +12,10 @@ This project includes various API endpoints for managing users, menu items, orde
 
 Access the full API documentation at:
 
-User Registration & Authentication Endpoints: https://documenter.getpostman.com/view/23846288/2sAYX3qhzF
-Cart Management Endpoints: https://documenter.getpostman.com/view/23846288/2sAYX3qi4Z
-Category Endpoints: https://documenter.getpostman.com/view/23846288/2sAYX3qi4a
-Menu-items Endpoints: https://documenter.getpostman.com/view/23846288/2sAYX3qi4b
-Order Management Endpoints: https://documenter.getpostman.com/view/23846288/2sAYX3qi4c
+User Registration & Authentication Endpoints: https://documenter.getpostman.com/view/23846288/2sAYX3qhzF <br/>
+Cart Management Endpoints: https://documenter.getpostman.com/view/23846288/2sAYX3qi4Z <br/>
+Category Endpoints: https://documenter.getpostman.com/view/23846288/2sAYX3qi4a <br/>
+Menu-items Endpoints: https://documenter.getpostman.com/view/23846288/2sAYX3qi4b <br/>
+Order Management Endpoints: https://documenter.getpostman.com/view/23846288/2sAYX3qi4c <br/>
 
 
