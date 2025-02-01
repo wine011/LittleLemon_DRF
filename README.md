@@ -5,7 +5,8 @@ This API project is designed for the Little Lemon restaurant, enabling users wit
 📌 Placing and tracking orders
 📌 Assigning delivery crew to orders
 📌 Completing order deliveries
-This project follows the guidelines provided in the **_Coursera APIs course by Meta_**.
+This project follows the guidelines provided in the **_Coursera APIs course by Meta_** and is built using Django Rest Framework.
+
 
 **API Endpoints Overview**
 This project includes various API endpoints for managing users, menu items, orders, and delivery crew roles. The endpoints are grouped into different categories based on functionality and user roles.
