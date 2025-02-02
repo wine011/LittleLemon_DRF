@@ -1,0 +1,23 @@
+superuser's name - admin
+password - admin123
+
+Little Lemon Restaurant API
+Overview
+This project is a Django-based REST API for managing a restaurant system for Little Lemon. The API enables client application developers to build web and mobile applications for various user roles, including customers, managers, and delivery crew.
+The project was developed as part of a course on the Coursera platform and demonstrates the implementation of user authentication, role-based access control, and CRUD operations on restaurant menu items, orders, and user groups.
+
+
+Here’s an example of how you could structure a detailed README file for your GitHub repository to describe your Coursera project:
+
+Little Lemon Restaurant API
+Overview
+This project is a Django-based REST API for managing a restaurant system for Little Lemon. The API enables client application developers to build web and mobile applications for various user roles, including customers, managers, and delivery crew.
+
+The project was developed as part of a course on the Coursera platform and demonstrates the implementation of user authentication, role-based access control, and CRUD operations on restaurant menu items, orders, and user groups.
+People with different roles will be able to browse, add and edit menu items, place orders, browse orders, assign delivery crew to orders and finally deliver the orders. 
+
+Features
+1)User Authentication and Management
+2)Menu Management
+3)Order Management
+4)Cart Management
